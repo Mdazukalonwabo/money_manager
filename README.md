@@ -1,2 +1,2 @@
-# money_manager
-This is a simple money manger app with the help of tkinter
+# RPA-T0
+Lonwabo and Zayaan working on a Money Manger App
